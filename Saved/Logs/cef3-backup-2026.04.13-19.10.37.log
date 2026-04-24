@@ -1,45 +1,0 @@
-[23376:31888:0413/215350.922:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23376:31888:0413/215351.075:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[23376:13172:0413/215351.251:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23376:31888:0413/215351.390:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23376:22140:0413/215402.286:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23376:22140:0413/215402.290:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23376:22140:0413/215402.293:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23376:22140:0413/215402.295:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34752:17624:0413/215403.005:ERROR:backend_impl.cc(989)] Critical error found -8
-[34752:17624:0413/215403.005:ERROR:entry_impl.cc(1029)] No file for b2020000
-[34752:17624:0413/215403.006:WARNING:storage_block-inl.h(138)] Failed data load.
-[23376:17608:0413/215403.238:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23376:17608:0413/215403.240:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23376:31888:0413/215403.480:ERROR:device_event_log_impl.cc(196)] [21:54:03.413] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[34076:17936:0413/215403.823:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8293BD78CA17C6C3E79DFD45E4893AD3 will be ignored
-[16476:30384:0413/215405.010:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-CBED2C31596C715D6CD37EAB19C0E07A will be ignored
-[14756:33864:0413/215405.142:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[34752:30444:0413/215512.549:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[14756:14432:0413/220928.544:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[14756:12588:0413/220928.656:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[14756:24552:0413/220929.124:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[14756:14432:0413/220929.128:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[14756:22988:0413/220929.156:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[14756:19260:0413/220929.284:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-
-[34752:30444:0413/220931.263:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[34752:30444:0413/220941.591:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[34752:30444:0413/220951.460:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[19864:4512:0413/221003.406:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-37B566E788E4F0A3820B0BAEB8D3ED27 will be ignored
-[34752:30444:0413/221021.057:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[23376:31888:0413/221037.445:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
