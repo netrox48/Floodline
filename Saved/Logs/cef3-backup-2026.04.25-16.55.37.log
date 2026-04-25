@@ -1,0 +1,50 @@
+[43652:35092:0425/193041.188:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[43652:35092:0425/193041.294:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[43652:27752:0425/193041.384:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[43652:35092:0425/193041.466:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43652:27752:0425/193050.076:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43652:27752:0425/193050.079:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43652:27752:0425/193050.081:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43652:27752:0425/193050.082:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43652:27752:0425/193050.557:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43652:27752:0425/193050.560:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8676:16812:0425/193050.606:ERROR:backend_impl.cc(989)] Critical error found -8
+[8676:16812:0425/193050.945:WARNING:storage_block-inl.h(138)] Failed data load.
+[37872:29016:0425/193050.990:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A7463B65E33BDAC848332EEBF13BDF3D will be ignored
+[8676:26016:0425/194644.586:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194644.689:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:26016:0425/194644.710:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194646.325:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194646.329:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194651.328:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194651.352:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194654.808:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194654.832:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194654.843:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194659.835:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194659.869:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194703.002:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194703.005:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194708.011:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194708.024:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194709.053:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:26016:0425/194709.066:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194714.057:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194714.090:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194718.340:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194718.350:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194723.342:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194723.372:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194730.750:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194730.766:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194735.752:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194735.792:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194738.890:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194738.902:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194743.893:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:26016:0425/194743.912:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194753.897:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194753.920:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8676:34696:0425/194804.809:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:10148:0425/194804.809:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[43652:35092:0425/195445.667:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
