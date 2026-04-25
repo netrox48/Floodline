@@ -1,0 +1,29 @@
+[11780:17328:0424/230947.914:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11780:17328:0424/230948.079:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Belirtilen durumda kullanım için anahtar geçerli değil. (0x8009000B)
+[11780:2288:0424/230948.211:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11780:17328:0424/230948.326:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11780:17328:0424/230956.646:ERROR:device_event_log_impl.cc(196)] [23:09:56.566] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[15604:17492:0424/230957.093:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3C2CCAAD12AA9868438176C17869406A will be ignored
+[11780:16200:0424/230957.495:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[11780:17328:0424/230957.877:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11780:17328:0424/230957.877:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11780:17328:0424/230957.878:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11780:17328:0424/230957.878:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11780:16200:0424/230957.889:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19384:15532:0424/231002.706:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19384:15532:0424/231004.623:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19384:18224:0424/231004.689:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19384:18224:0424/231004.690:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19384:18224:0424/231004.692:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10664:6652:0424/231004.843:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10664:6652:0424/231004.856:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10664:6652:0424/231004.997:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10664:6652:0424/231004.997:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10664:6652:0424/231004.997:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[19384:18224:0424/231005.014:WARNING:stun_port.cc(442)] Port[5d5d400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19384:18224:0424/231005.016:WARNING:stun_port.cc(442)] Port[5d5dc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19384:18224:0424/231005.016:WARNING:stun_port.cc(442)] Port[5d5e400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1444:3784:0424/231216.428:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-5316D0DC6A2AAA577B504454AEA07EEC will be ignored
+[5768:15688:0424/231216.496:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5768:15688:0424/231216.496:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11780:17328:0424/234717.954:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
