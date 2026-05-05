@@ -1,22 +1,0 @@
-[21256:28728:0422/220941.942:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21256:28728:0422/220941.959:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[21256:10660:0422/220941.985:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21256:28728:0422/220942.005:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21256:10660:0422/220950.391:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21256:10660:0422/220950.393:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21256:10660:0422/220950.395:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21256:10660:0422/220950.396:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_NEW\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21256:10660:0422/220951.229:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29408:5808:0422/220951.229:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[29408:5808:0422/220951.229:ERROR:backend_impl.cc(989)] Critical error found -8
-[21256:10660:0422/220951.231:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21256:28728:0422/220951.254:ERROR:device_event_log_impl.cc(196)] [22:09:51.228] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[29408:5808:0422/220951.452:WARNING:storage_block-inl.h(138)] Failed data load.
-[29408:5808:0422/220951.453:WARNING:storage_block-inl.h(138)] Failed data load.
-[29408:5808:0422/220951.453:ERROR:entry_impl.cc(955)] Failed to save user data
-[27764:23808:0422/220951.780:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1A0172E493485D58E930CBFE948BCE0C will be ignored
-[24924:14120:0422/223819.342:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-AA07F044CA1E4A15EA3073C45FD2FFBA will be ignored
-[29408:17272:0422/223839.376:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[29408:17272:0422/223850.978:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[29408:17272:0422/223913.396:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[21256:28728:0422/234605.183:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
