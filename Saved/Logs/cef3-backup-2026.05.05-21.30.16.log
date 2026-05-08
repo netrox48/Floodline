@@ -1,0 +1,27 @@
+[17028:8916:0506/001223.371:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17028:8772:0506/001223.598:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17028:8916:0506/001223.703:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17028:8916:0506/001232.944:ERROR:device_event_log_impl.cc(196)] [00:12:32.933] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[16328:14960:0506/001233.060:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1CD3C4DCA96B880A754D82B56E18A6F1 will be ignored
+[17028:7888:0506/001233.486:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[17028:8916:0506/001233.573:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17028:8916:0506/001233.573:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17028:8916:0506/001233.573:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17028:8916:0506/001233.573:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17028:7888:0506/001233.583:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[18556:14184:0506/001236.344:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18556:14184:0506/001236.771:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18556:7672:0506/001236.787:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18556:7672:0506/001236.788:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18556:7672:0506/001236.788:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2788:13204:0506/001236.818:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2788:13204:0506/001236.823:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2788:13204:0506/001236.828:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[2788:13204:0506/001236.829:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[2788:13204:0506/001236.829:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18556:7672:0506/001236.829:WARNING:stun_port.cc(442)] Port[3e3a800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18556:7672:0506/001236.829:WARNING:stun_port.cc(442)] Port[3e3b000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18556:7672:0506/001236.829:WARNING:stun_port.cc(442)] Port[3e3b800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18832:4972:0506/001440.922:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[18832:4972:0506/001440.922:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17028:8916:0506/003016.181:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
