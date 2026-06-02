@@ -1,0 +1,20 @@
+[14944:14200:0602/210535.211:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14944:8712:0602/210535.247:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14944:14200:0602/210535.261:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13100:12296:0602/210537.952:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[12804:15512:0602/210538.401:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-145AB0E14F7FFBA8672228CC174DA814 will be ignored
+[13100:12296:0602/210538.404:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[13100:12296:0602/210538.408:ERROR:backend_impl.cc(989)] Critical error found -8
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210538.408:ERROR:entry_impl.cc(1029)] No file for b3020000
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210538.408:ERROR:entry_impl.cc(1029)] No file for b3020008
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210538.408:WARNING:storage_block-inl.h(138)] Failed data load.
+[13100:12296:0602/210539.303:ERROR:entry_impl.cc(955)] Failed to save user data
+[14944:14200:0602/210544.086:ERROR:device_event_log_impl.cc(196)] [21:05:42.554] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[14944:14200:0602/212349.249:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
