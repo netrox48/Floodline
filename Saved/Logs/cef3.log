@@ -1,16 +1,7 @@
-[19556:7008:0531/213114.753:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19556:7008:0531/213114.881:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[19556:7008:0531/213115.145:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19556:35044:0531/213122.105:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19556:35044:0531/213122.110:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19556:35044:0531/213122.116:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19556:35044:0531/213122.121:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19556:35044:0531/213124.083:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19556:35044:0531/213124.085:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28152:21104:0531/213124.090:ERROR:backend_impl.cc(989)] Critical error found -8
-[28152:21104:0531/213124.090:ERROR:entry_impl.cc(1029)] No file for b2020020
-[28152:21104:0531/213124.090:WARNING:storage_block-inl.h(138)] Failed data load.
-[19556:7008:0531/213124.404:ERROR:device_event_log_impl.cc(196)] [21:31:24.084] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[2896:8088:0531/213125.739:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5D4F3E99470DEB15EA1D27CEAE170698 will be ignored
-[19556:24316:0531/213131.534:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[19556:7008:0531/213328.585:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18336:17464:0602/170951.527:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18336:17464:0602/170951.683:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Belirtilen durumda kullanım için anahtar geçerli değil. (0x8009000B)
+[18336:2280:0602/170951.810:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18336:17464:0602/170951.942:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18336:17464:0602/170959.176:ERROR:device_event_log_impl.cc(196)] [17:09:59.166] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[17752:6568:0602/171000.130:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-340C2520DC1591F80AAD14824169436C will be ignored
+[18336:17464:0602/180030.677:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
