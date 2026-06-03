@@ -1,7 +1,11 @@
-[18328:11416:0602/212436.983:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18328:17648:0602/212437.011:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18328:11416:0602/212437.027:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12080:17592:0602/212440.446:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-32BDFFC790F0B0AA259DE52E4D17D60E will be ignored
-[18328:11416:0602/212445.118:ERROR:device_event_log_impl.cc(196)] [21:24:45.089] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
-[18328:11416:0602/214455.178:ERROR:device_event_log_impl.cc(196)] [21:44:55.176] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
-[18328:11416:0602/220824.706:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4160:1780:0603/193701.688:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4160:11376:0603/193701.737:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4160:1780:0603/193701.781:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11928:2420:0603/193704.945:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[11928:2420:0603/193704.945:ERROR:backend_impl.cc(989)] Critical error found -8
+[11928:2420:0603/193705.106:WARNING:storage_block-inl.h(138)] Failed data load.
+[11928:2420:0603/193705.106:WARNING:storage_block-inl.h(138)] Failed data load.
+[11928:2420:0603/193705.107:ERROR:entry_impl.cc(955)] Failed to save user data
+[10248:12280:0603/193706.271:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-188A36D53F3ECF644E55A827298F3678 will be ignored
+[4160:1780:0603/193711.603:ERROR:device_event_log_impl.cc(196)] [19:37:11.603] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[4160:1780:0603/203928.951:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
