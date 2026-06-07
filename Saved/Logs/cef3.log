@@ -1,27 +1,144 @@
-[17248:14744:0607/151538.692:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17248:16352:0607/151538.925:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[17248:14744:0607/151539.044:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14276:4464:0607/151547.259:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1C9759F2C16459A635C97FE367E507DF will be ignored
-[17248:14744:0607/151547.922:ERROR:device_event_log_impl.cc(196)] [15:15:47.601] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
-[17248:12976:0607/151549.260:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[17248:14744:0607/151549.589:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[17248:14744:0607/151549.589:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[17248:14744:0607/151549.589:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[17248:14744:0607/151549.589:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[17248:12976:0607/151549.596:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[12036:17372:0607/151557.605:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12036:17372:0607/151557.979:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12036:15588:0607/151557.998:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12036:15588:0607/151557.999:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12036:15588:0607/151557.999:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[15840:11924:0607/151558.279:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[15840:11924:0607/151558.284:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[15840:11924:0607/151558.285:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[15840:11924:0607/151558.285:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[15840:11924:0607/151558.285:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[12036:15588:0607/151558.285:WARNING:stun_port.cc(442)] Port[4674800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[12036:15588:0607/151558.286:WARNING:stun_port.cc(442)] Port[4675c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[12036:15588:0607/151558.286:WARNING:stun_port.cc(442)] Port[4676400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[16624:9936:0607/151802.187:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[16624:9936:0607/151802.187:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[17248:14744:0607/160206.399:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7648:19324:0607/161157.908:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7648:8264:0607/161157.938:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7648:19324:0607/161157.953:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13828:19652:0607/161200.822:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-77F4F1A541D6A70A8CF73A538DA293F7 will be ignored
+[5888:1120:0607/161201.475:ERROR:backend_impl.cc(989)] Critical error found -8
+[5888:1120:0607/161201.475:ERROR:entry_impl.cc(1029)] No file for c1030076
+[5888:1120:0607/161201.476:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.517:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.517:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.523:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.523:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.564:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.564:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.564:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.593:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.593:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.593:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.593:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.595:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.595:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.596:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.596:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.596:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.596:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.600:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.600:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.631:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.631:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.632:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.632:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.632:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.633:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.633:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.634:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.634:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.679:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.679:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.681:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.681:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.697:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.697:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.697:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.725:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.725:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.726:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.727:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.727:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.731:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.731:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.732:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.734:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.734:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.734:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.739:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.739:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.740:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.740:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.741:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.747:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.747:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.748:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.748:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.748:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.748:ERROR:entry_impl.cc(955)] Failed to save user data
+[5888:1120:0607/161201.751:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.751:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.753:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.753:WARNING:storage_block-inl.h(138)] Failed data load.
+[5888:1120:0607/161201.756:ERROR:entry_impl.cc(955)] Failed to save user data
+[7648:19324:0607/161205.227:ERROR:device_event_log_impl.cc(196)] [16:12:05.216] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[7648:19324:0607/162111.728:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
