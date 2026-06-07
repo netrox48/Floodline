@@ -1,144 +1,13 @@
-[7648:19324:0607/161157.908:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7648:8264:0607/161157.938:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7648:19324:0607/161157.953:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13828:19652:0607/161200.822:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-77F4F1A541D6A70A8CF73A538DA293F7 will be ignored
-[5888:1120:0607/161201.475:ERROR:backend_impl.cc(989)] Critical error found -8
-[5888:1120:0607/161201.475:ERROR:entry_impl.cc(1029)] No file for c1030076
-[5888:1120:0607/161201.476:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.516:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.517:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.517:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.523:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.523:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.564:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.564:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.564:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.592:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.593:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.593:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.593:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.593:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.594:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.595:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.595:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.595:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.596:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.596:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.596:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.596:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.600:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.600:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.601:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.629:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.631:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.631:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.632:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.632:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.632:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.633:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.633:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.633:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.634:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.634:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.679:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.679:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.680:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.681:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.681:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.697:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.697:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.697:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.720:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.725:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.725:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.726:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.726:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.727:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.727:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.727:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.729:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.731:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.731:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.732:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.733:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.734:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.734:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.734:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.738:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.739:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.739:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.740:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.740:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.741:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.746:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.747:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.747:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.748:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.748:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.748:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.748:ERROR:entry_impl.cc(955)] Failed to save user data
-[5888:1120:0607/161201.751:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.751:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.753:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.753:WARNING:storage_block-inl.h(138)] Failed data load.
-[5888:1120:0607/161201.756:ERROR:entry_impl.cc(955)] Failed to save user data
-[7648:19324:0607/161205.227:ERROR:device_event_log_impl.cc(196)] [16:12:05.216] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
-[7648:19324:0607/162111.728:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30912:3656:0607/193523.492:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30912:3656:0607/193523.655:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[30912:3656:0607/193523.947:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30912:40412:0607/193532.340:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30912:40412:0607/193532.348:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30912:40412:0607/193532.353:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30912:40412:0607/193532.357:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30912:40412:0607/193533.278:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30912:40412:0607/193533.282:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30912:3656:0607/193533.300:ERROR:device_event_log_impl.cc(196)] [19:35:33.283] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[38944:34208:0607/193534.007:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B9E88DFE355466C8D8627C2396B5C280 will be ignored
+[30912:21968:0607/194136.566:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[30912:3656:0607/194149.479:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
