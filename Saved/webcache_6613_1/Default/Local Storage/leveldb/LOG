@@ -1,3 +1,14 @@
-2026/06/07-19:46:55.185 139c Reusing MANIFEST C:\Users\Berat\Documents\GitHub\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/07-19:46:55.190 139c Recovering log #9
-2026/06/07-19:46:55.194 139c Reusing old log C:\Users\Berat\Documents\GitHub\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/000009.log 
+2026/06/09-14:15:56.653 1494 Reusing MANIFEST C:\Users\Berat\Documents\GitHub\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/09-14:15:56.663 1494 Recovering log #9
+2026/06/09-14:15:56.665 1494 Reusing old log C:\Users\Berat\Documents\GitHub\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/000009.log 
+2026/06/09-14:42:11.647 148c Level-0 table #13: started
+2026/06/09-14:42:11.651 148c Level-0 table #13: 68388 bytes OK
+2026/06/09-14:42:11.653 148c Delete type=0 #9
+2026/06/09-14:42:11.653 148c Compacting 4@0 + 0@1 files
+2026/06/09-14:42:11.657 148c Generated table #14@0: 10 keys, 11596 bytes
+2026/06/09-14:42:11.657 148c Compacted 4@0 + 0@1 files => 11596 bytes
+2026/06/09-14:42:11.658 148c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/09-14:42:11.658 148c Delete type=2 #3
+2026/06/09-14:42:11.658 148c Delete type=2 #7
+2026/06/09-14:42:11.658 148c Delete type=2 #10
+2026/06/09-14:42:11.658 148c Delete type=2 #13

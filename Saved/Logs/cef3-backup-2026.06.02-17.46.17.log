@@ -1,7 +1,0 @@
-[18336:17464:0602/170951.527:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18336:17464:0602/170951.683:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Belirtilen durumda kullanım için anahtar geçerli değil. (0x8009000B)
-[18336:2280:0602/170951.810:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18336:17464:0602/170951.942:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18336:17464:0602/170959.176:ERROR:device_event_log_impl.cc(196)] [17:09:59.166] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
-[17752:6568:0602/171000.130:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-340C2520DC1591F80AAD14824169436C will be ignored
-[18336:17464:0602/180030.677:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
