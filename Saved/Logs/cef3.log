@@ -1,12 +1,62 @@
-[32580:15188:0614/132131.091:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32580:15188:0614/132131.119:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[32580:1164:0614/132131.143:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[32580:15188:0614/132131.151:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[32580:1164:0614/132139.485:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32580:1164:0614/132139.490:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32580:1164:0614/132139.492:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32580:1164:0614/132139.495:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32580:30032:0614/132140.338:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32580:30032:0614/132140.341:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22996:5472:0614/132141.815:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-357245EBF75AE3BF5F9E1293BD4316C8 will be ignored
-[32580:15188:0614/134909.811:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[6732:15820:0614/231402.651:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6732:32468:0614/231402.694:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6732:15820:0614/231402.701:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6732:6116:0614/231410.492:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6732:6116:0614/231410.493:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6732:6116:0614/231410.495:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6732:6116:0614/231410.498:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6732:26340:0614/231410.947:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6732:26340:0614/231410.948:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22268:16344:0614/231411.351:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[22268:16344:0614/231411.351:ERROR:backend_impl.cc(989)] Critical error found -8
+[22268:16344:0614/231411.585:WARNING:storage_block-inl.h(138)] Failed data load.
+[22268:16344:0614/231411.586:WARNING:storage_block-inl.h(138)] Failed data load.
+[22268:16344:0614/231411.587:ERROR:entry_impl.cc(955)] Failed to save user data
+[9076:25360:0614/231411.883:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4DE88518DDE58540963D78ED5C0EC207 will be ignored
+[20984:12812:0614/231504.501:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-C82948BB59A4FED7E3E9037EB26CB372 will be ignored
+[22268:20824:0614/231505.383:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231524.539:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[6732:15820:0614/231528.706:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[6732:15820:0614/231528.706:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[22268:20824:0614/231531.972:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231531.980:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231532.120:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231540.221:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231540.371:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231540.866:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231540.866:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231541.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231541.052:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13848:12792:0614/231541.320:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[13848:22208:0614/231541.395:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[13848:12792:0614/231541.815:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[13848:10952:0614/231547.117:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22268:20824:0614/231547.270:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231547.420:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231549.240:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231549.391:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231551.170:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231559.580:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231559.591:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231614.861:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231615.032:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231618.745:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231618.760:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231618.802:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231618.951:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231628.036:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231628.036:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[22268:20824:0614/231628.211:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13848:23084:0614/231631.480:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[6732:15820:0615/020146.589:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
