@@ -1,11 +1,12 @@
-[20236:13488:0613/214006.085:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20236:9608:0613/214006.121:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[20236:13488:0613/214006.142:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18888:8620:0613/214008.735:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[18888:8620:0613/214008.735:ERROR:backend_impl.cc(989)] Critical error found -8
-[18888:8620:0613/214008.893:WARNING:storage_block-inl.h(138)] Failed data load.
-[18888:8620:0613/214008.893:WARNING:storage_block-inl.h(138)] Failed data load.
-[18888:8620:0613/214008.894:ERROR:entry_impl.cc(955)] Failed to save user data
-[10536:17004:0613/214009.718:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4A610B8A143725D0C6838C6D3933542B will be ignored
-[20236:13488:0613/214013.501:ERROR:device_event_log_impl.cc(196)] [21:40:13.488] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
-[20236:13488:0613/214721.454:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[32580:15188:0614/132131.091:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32580:15188:0614/132131.119:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[32580:1164:0614/132131.143:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[32580:15188:0614/132131.151:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32580:1164:0614/132139.485:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32580:1164:0614/132139.490:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32580:1164:0614/132139.492:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32580:1164:0614/132139.495:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32580:30032:0614/132140.338:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32580:30032:0614/132140.341:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22996:5472:0614/132141.815:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-357245EBF75AE3BF5F9E1293BD4316C8 will be ignored
+[32580:15188:0614/134909.811:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
