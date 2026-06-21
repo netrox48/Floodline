@@ -1,0 +1,42 @@
+[16304:16360:0621/193611.707:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16304:12228:0621/193611.955:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16304:16360:0621/193612.064:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16304:16360:0621/193644.358:ERROR:device_event_log_impl.cc(196)] [19:36:44.328] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[11088:11052:0621/193644.450:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4525871AEF030A0E1D69DC6F6CCB2D59 will be ignored
+[11148:14500:0621/193645.162:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11148:6984:0621/193645.194:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11148:6984:0621/193645.194:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11148:6984:0621/193645.195:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14576:9268:0621/193645.213:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[14576:9268:0621/193645.218:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[14576:9268:0621/193645.224:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[14576:9268:0621/193645.224:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[14576:9268:0621/193645.224:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[11148:6984:0621/193645.224:WARNING:stun_port.cc(442)] Port[1094000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[11148:6984:0621/193645.224:WARNING:stun_port.cc(442)] Port[1094400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[11148:6984:0621/193645.224:WARNING:stun_port.cc(442)] Port[1094c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[16304:8136:0621/193645.373:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[16304:16360:0621/193645.434:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16304:16360:0621/193645.434:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16304:16360:0621/193645.434:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16304:16360:0621/193645.434:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16304:8136:0621/193645.438:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[3736:6264:0621/193645.515:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3736:14740:0621/193645.553:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3736:14740:0621/193645.553:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[3736:14740:0621/193645.554:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14576:9268:0621/193645.576:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[14576:9268:0621/193645.580:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[14576:9268:0621/193645.581:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[14576:9268:0621/193645.581:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[14576:9268:0621/193645.581:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[3736:14740:0621/193645.581:WARNING:stun_port.cc(442)] Port[1280800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[3736:14740:0621/193645.581:WARNING:stun_port.cc(442)] Port[1281000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[3736:14740:0621/193645.581:WARNING:stun_port.cc(442)] Port[1281800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[3736:6264:0621/193651.035:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12176:7420:0621/193854.654:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[12176:7420:0621/193854.654:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16304:16360:0621/194026.882:ERROR:device_event_log_impl.cc(196)] [19:40:26.880] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[16304:16360:0621/211552.565:ERROR:device_event_log_impl.cc(196)] [21:15:52.555] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[16304:16360:0621/211554.472:ERROR:device_event_log_impl.cc(196)] [21:15:54.397] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[16304:16360:0621/212816.740:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
