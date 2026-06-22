@@ -1,3 +1,7 @@
-2026/06/21-19:36:12.130 2b7c Reusing MANIFEST C:\Users\Berat\Documents\GitHub\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/21-19:36:12.141 2b7c Recovering log #48
-2026/06/21-19:36:12.143 2b7c Reusing old log C:\Users\Berat\Documents\GitHub\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/000048.log 
+2026/06/21-21:41:29.168 5c58 Reusing MANIFEST C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/21-21:41:29.189 5c58 Recovering log #48
+2026/06/21-21:41:29.189 5c58 Level-0 table #52: started
+2026/06/21-21:41:29.196 5c58 Level-0 table #52: 77067 bytes OK
+2026/06/21-21:41:29.196 5c58 Recovering log #52
+2026/06/21-21:41:29.197 5c58 Reusing old log C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/000052.log 
+2026/06/21-21:41:29.200 5c58 Delete type=0 #48
