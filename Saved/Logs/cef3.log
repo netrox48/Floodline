@@ -1,7 +1,13 @@
-[12816:10912:0622/182023.288:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12816:10912:0622/182023.300:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Belirtilen durumda kullanım için anahtar geçerli değil. (0x8009000B)
-[12816:9104:0622/182023.317:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12816:10912:0622/182023.334:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17240:18000:0622/182028.589:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-504D882F53FC3F51C07C875323145952 will be ignored
-[12816:10912:0622/182029.227:ERROR:device_event_log_impl.cc(196)] [18:20:28.914] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
-[12816:10912:0622/195237.470:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[43100:17340:0623/111256.674:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[43100:17340:0623/111256.802:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[43100:43976:0623/111256.913:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[43100:17340:0623/111256.988:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43100:13924:0623/111301.705:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43100:13924:0623/111301.709:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43100:13924:0623/111301.713:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43100:13924:0623/111301.717:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43100:13924:0623/111302.534:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43100:13924:0623/111302.536:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11976:40828:0623/111303.856:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BCF35A022CBDD157B91F8437966A52ED will be ignored
+[41328:28400:0623/133429.361:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[43100:17340:0623/141832.524:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
