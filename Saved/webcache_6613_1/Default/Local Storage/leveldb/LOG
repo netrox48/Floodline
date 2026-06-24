@@ -1,3 +1,15 @@
-2026/06/23-16:50:18.968 ae40 Reusing MANIFEST C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/23-16:50:18.976 ae40 Recovering log #57
-2026/06/23-16:50:18.983 ae40 Reusing old log C:\Users\omerl\Desktop\School\Dönem4\Serious Game Design\TheGame\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/000057.log 
+2026/06/24-10:58:55.889 8ad0 Reusing MANIFEST C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/24-10:58:55.909 8ad0 Recovering log #57
+2026/06/24-10:58:55.911 8ad0 Reusing old log C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\Local Storage\leveldb/000057.log 
+2026/06/24-15:12:09.010 789c Level-0 table #61: started
+2026/06/24-15:12:09.017 789c Level-0 table #61: 69346 bytes OK
+2026/06/24-15:12:09.021 789c Delete type=0 #57
+2026/06/24-15:12:09.022 789c Compacting 4@0 + 1@1 files
+2026/06/24-15:12:09.029 789c Generated table #62@0: 11 keys, 41943 bytes
+2026/06/24-15:12:09.029 789c Compacted 4@0 + 1@1 files => 41943 bytes
+2026/06/24-15:12:09.034 789c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/24-15:12:09.035 789c Delete type=2 #50
+2026/06/24-15:12:09.035 789c Delete type=2 #52
+2026/06/24-15:12:09.036 789c Delete type=2 #54
+2026/06/24-15:12:09.036 789c Delete type=2 #58
+2026/06/24-15:12:09.036 789c Delete type=2 #61
