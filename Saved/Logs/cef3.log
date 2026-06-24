@@ -1,14 +1,14 @@
-[34176:30688:0624/160917.549:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[34176:30688:0624/160917.564:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[34176:27616:0624/160917.589:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[34176:30688:0624/160917.596:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[34176:12004:0624/160920.121:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34176:12004:0624/160920.124:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34176:12004:0624/160920.126:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34176:1424:0624/160920.129:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34176:6384:0624/160920.664:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34176:6384:0624/160920.667:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[13020:8556:0624/160920.813:ERROR:backend_impl.cc(989)] Critical error found -8
-[13020:8556:0624/160921.317:WARNING:storage_block-inl.h(138)] Failed data load.
-[35736:17572:0624/160921.782:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C1272699FD4C4E0488A7FAF7F8CB6480 will be ignored
-[34176:30688:0624/163440.015:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19268:18412:0624/164744.047:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19268:15720:0624/164744.089:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19268:18412:0624/164744.096:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19268:41460:0624/164746.594:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:41460:0624/164746.597:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:41460:0624/164746.599:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:41460:0624/164746.601:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:19124:0624/164747.410:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:19124:0624/164747.412:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16448:38556:0624/164747.579:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[16448:38556:0624/164747.579:ERROR:backend_impl.cc(989)] Critical error found -8
+[16448:38556:0624/164747.823:ERROR:entry_impl.cc(955)] Failed to save user data
+[22188:34712:0624/164748.776:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E9AE27A1EC038F56154C494A66BDA0FA will be ignored
+[19268:18412:0624/171010.123:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
