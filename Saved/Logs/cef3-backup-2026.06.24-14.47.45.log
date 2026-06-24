@@ -1,0 +1,14 @@
+[19268:18412:0624/164744.047:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19268:15720:0624/164744.089:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19268:18412:0624/164744.096:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19268:41460:0624/164746.594:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:41460:0624/164746.597:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:41460:0624/164746.599:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:41460:0624/164746.601:WARNING:leveldb_database.cc(141)] Unable to open C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\GITHUB_YENI\Floodline\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:19124:0624/164747.410:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:19124:0624/164747.412:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16448:38556:0624/164747.579:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[16448:38556:0624/164747.579:ERROR:backend_impl.cc(989)] Critical error found -8
+[16448:38556:0624/164747.823:ERROR:entry_impl.cc(955)] Failed to save user data
+[22188:34712:0624/164748.776:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E9AE27A1EC038F56154C494A66BDA0FA will be ignored
+[19268:18412:0624/171010.123:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
